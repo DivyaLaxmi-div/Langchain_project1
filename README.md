@@ -28,16 +28,7 @@ A Retrieval-Augmented Generation (RAG) application that answers questions from f
 
 ---
 
-## 📂 Project Structure
 
-```
-Langchain_project1/
-│── Equity_Research_Analysis.ipynb
-│── requirements.txt
-└── README.md
-```
-
----
 
 ## ⚙️ Installation
 
@@ -108,10 +99,3 @@ os.environ["GROQ_API_KEY"] = "YOUR_GROQ_API_KEY"
 - PDF and CSV support
 - Persistent vector database using ChromaDB
 
----
-
-## 👩‍💻 Author
-
-**Divya Laxmi Routhu**
-
-GitHub: https://github.com/DivyaLaxmi-div
